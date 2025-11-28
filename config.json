@@ -1,0 +1,30 @@
+{
+  "token": "MTQ0MDc4NDgwMjYwNDI1NzQwMg.GEL8Vg.vlrBs__IYLG9CXoTmxxgokaqyPfwsx82zh3PfU",
+  "prefix": "x!",
+  "mongo": "mongodb+srv://xarso:xarsokeyx@xarso.rgjppwg.mongodb.net/?appName=xarso",
+  "modRoleID": "1443735757347885229",
+  "ticketCategoryID": "1443735171491692697",
+  "testerRoleID": "1443735757347885229",
+  "AUTHORIZED_USER_ID": "1042926462669422672",
+  "BTC_ADMIN_CHANNEL_ID": "1441203131181699132",
+  "xp_cooldown_ms": 60000,
+  "ownerRoleID": "1042926462669422672",
+  "max_claims": 2,
+  "arsa_fiyatlari": {
+    "milyoner": {
+      "buy": 40000000,
+      "sell": "x!arsa-shop",
+      "daily": 1000000
+    },
+    "elmas": {
+      "buy": 35000000,
+      "sell": "x!arsa-shop",
+      "daily": 800000
+    },
+    "zümrüt": {
+      "buy": 30000000,
+      "sell": "x!arsa-shop",
+      "daily": 500000
+    }
+  }
+}
